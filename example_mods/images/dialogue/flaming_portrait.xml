@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flaming portrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flaming portrait0000" x="0" y="0" width="469" height="893" frameX="0" frameY="-15" frameWidth="478" frameHeight="908"/>
+	<SubTexture name="flaming portrait0001" x="469" y="0" width="472" height="900" frameX="-6" frameY="-8" frameWidth="478" frameHeight="908"/>
+	<SubTexture name="flaming portrait0002" x="941" y="0" width="444" height="908" frameX="-23" frameY="0" frameWidth="478" frameHeight="908"/>
+	<SubTexture name="flaming portrait0003" x="1385" y="0" width="444" height="892" frameX="-23" frameY="-16" frameWidth="478" frameHeight="908"/>
+	<SubTexture name="flaming portrait0004" x="0" y="908" width="461" height="870" frameX="-8" frameY="-38" frameWidth="478" frameHeight="908"/>
+	<SubTexture name="flaming portrait0005" x="461" y="908" width="445" height="878" frameX="-24" frameY="-30" frameWidth="478" frameHeight="908"/>
+</TextureAtlas>

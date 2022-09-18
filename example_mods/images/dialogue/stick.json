@@ -1,0 +1,24 @@
+{
+	"position": [
+		60,
+		60
+	],
+	"dialogue_pos": "center",
+	"scale": 1.4,
+	"image": "stick_portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "bf portrait0005",
+			"loop_name": "bf portrait"
+		}
+	]
+}

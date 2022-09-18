@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello, welcome to Natural disaster survival!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "#######"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "#######"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "###########################################################################################"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he llo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is it your first time playing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alr, basically you have to-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I want to have a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battle??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then go play funky friday or something"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im too lazy to play funky"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets have a rap battle rn #####"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luke",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "K lets have a rap battle then "
+		}
+	]
+}

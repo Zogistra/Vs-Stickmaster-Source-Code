@@ -1,0 +1,54 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "flaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How dare you Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To come into my island  "
+
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And humiliate me this way "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Skill issue "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flaming",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IM GOING TO KILL YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lets finish this "
+		}
+	]
+}

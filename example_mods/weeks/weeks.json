@@ -1,0 +1,49 @@
+{
+	"storyName": "stickmaster",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stickmaster",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sticked",
+			"stickmaster",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"unfair",
+			"stickmasterfase2",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"flaming",
+			"flaming",
+			[
+				255,
+				100,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weeks"
+}

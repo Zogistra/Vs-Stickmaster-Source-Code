@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stickmasterluke.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luke down0000" x="0" y="0" width="481" height="593" frameX="0" frameY="-11" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0001" x="0" y="0" width="481" height="593" frameX="0" frameY="-11" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0002" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0003" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0004" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0005" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0006" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0007" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0008" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0009" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0010" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0011" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0012" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0013" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke down0014" x="481" y="0" width="468" height="604" frameX="0" frameY="0" frameWidth="481" frameHeight="604"/>
+	<SubTexture name="luke idle0000" x="949" y="0" width="448" height="594" frameX="0" frameY="-12" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0001" x="949" y="0" width="448" height="594" frameX="0" frameY="-12" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0002" x="1397" y="0" width="454" height="599" frameX="0" frameY="-7" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0003" x="1397" y="0" width="454" height="599" frameX="0" frameY="-7" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0004" x="1851" y="0" width="443" height="601" frameX="0" frameY="-5" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0005" x="1851" y="0" width="443" height="601" frameX="0" frameY="-5" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0006" x="2294" y="0" width="439" height="604" frameX="0" frameY="-2" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0007" x="2294" y="0" width="439" height="604" frameX="0" frameY="-2" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0008" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0009" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0010" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0011" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0012" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke idle0013" x="2733" y="0" width="439" height="606" frameX="0" frameY="0" frameWidth="454" frameHeight="606"/>
+	<SubTexture name="luke left0000" x="3172" y="0" width="437" height="614" frameX="0" frameY="0" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0001" x="3172" y="0" width="437" height="614" frameX="0" frameY="0" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0002" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0003" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0004" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0005" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0006" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0007" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0008" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0009" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0010" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0011" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0012" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0013" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke left0014" x="3609" y="0" width="438" height="611" frameX="-20" frameY="-3" frameWidth="458" frameHeight="614"/>
+	<SubTexture name="luke right0000" x="0" y="614" width="446" height="600" frameX="-13" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0001" x="0" y="614" width="446" height="600" frameX="-13" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0002" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0003" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0004" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0005" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0006" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0007" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0008" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0009" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0010" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0011" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0012" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0013" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke right0014" x="446" y="614" width="439" height="600" frameX="0" frameY="0" frameWidth="459" frameHeight="600"/>
+	<SubTexture name="luke up0000" x="885" y="614" width="454" height="814"/>
+	<SubTexture name="luke up0001" x="885" y="614" width="454" height="814"/>
+	<SubTexture name="luke up0002" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0003" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0004" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0005" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0006" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0007" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0008" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0009" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0010" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0011" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0012" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0013" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+	<SubTexture name="luke up0014" x="1339" y="614" width="454" height="800" frameX="0" frameY="-14" frameWidth="454" frameHeight="814"/>
+</TextureAtlas>

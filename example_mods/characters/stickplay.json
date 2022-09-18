@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "stick left"
+		},
+		{
+			"offsets": [
+				70,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "stick right"
+		},
+		{
+			"offsets": [
+				-12,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "stickyyy down"
+		},
+		{
+			"offsets": [
+				-76,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "stick up"
+		},
+		{
+			"offsets": [
+				10,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "stick idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stickmaster",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stickmaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

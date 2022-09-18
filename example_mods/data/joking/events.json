@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "island",
+		"player1": "jokingbf",
+		"player2": "funi",
+		"player3": null,
+		"events": [
+			[
+				32000,
+				[
+					[
+						"Change Character",
+						"1",
+						"blaze-happy"
+					]
+				]
+			],
+			[
+				37166.6666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"funi"
+					]
+				]
+			],
+			[
+				37333.3333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"tod"
+					]
+				]
+			],
+			[
+				42666.6666666667,
+				[
+					[
+						"Change Character",
+						"0",
+						"jokingbf"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"1",
+						"bambi"
+					]
+				]
+			],
+			[
+				133333.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"funi"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 90,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Joking"
+	}
+}

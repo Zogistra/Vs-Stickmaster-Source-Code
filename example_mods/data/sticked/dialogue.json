@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What did he said??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He wants to have a rap battle with you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How the hell did you got here"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shut up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How th-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shut up "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Rap battle :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok"
+		}
+	]
+}

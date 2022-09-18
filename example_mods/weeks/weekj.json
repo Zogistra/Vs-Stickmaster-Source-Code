@@ -1,0 +1,58 @@
+{
+	"storyName": "bromita",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"when",
+			"funni",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"joking",
+			"funni",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"morbin",
+			"funni",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"most impossible song",
+			"3d",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekj"
+}

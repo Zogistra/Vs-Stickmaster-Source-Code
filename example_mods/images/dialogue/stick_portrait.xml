@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stick portrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf portrait0000" x="0" y="0" width="426" height="641"/>
+	<SubTexture name="bf portrait0001" x="0" y="0" width="426" height="641"/>
+	<SubTexture name="bf portrait0002" x="426" y="0" width="421" height="636" frameX="-2" frameY="-5" frameWidth="426" frameHeight="641"/>
+	<SubTexture name="bf portrait0003" x="426" y="0" width="421" height="636" frameX="-2" frameY="-5" frameWidth="426" frameHeight="641"/>
+	<SubTexture name="bf portrait0004" x="847" y="0" width="424" height="635" frameX="-1" frameY="-6" frameWidth="426" frameHeight="641"/>
+	<SubTexture name="bf portrait0005" x="847" y="0" width="424" height="635" frameX="-1" frameY="-6" frameWidth="426" frameHeight="641"/>
+</TextureAtlas>

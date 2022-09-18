@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stickmaster 8 bit.png"><SubTexture name="stickmaster 8 bit idle0000" x="448" y="0" width="224" height="496" frameX="-176" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit idle0001" x="0" y="0" width="224" height="512" frameX="-176" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit down0000" x="672" y="0" width="224" height="496" frameX="-176" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit down0001" x="1120" y="0" width="224" height="480" frameX="-176" frameY="-32" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit right0000" x="896" y="0" width="224" height="496" frameX="-176" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit right0001" x="0" y="512" width="240" height="496" frameX="-176" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit up0000" x="240" y="512" width="224" height="496" frameX="-176" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit up0001" x="224" y="0" width="224" height="512" frameX="-176" frameY="0" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit left0000" x="464" y="512" width="272" height="496" frameX="-128" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="stickmaster 8 bit left0001" x="736" y="512" width="288" height="496" frameX="-112" frameY="-16" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

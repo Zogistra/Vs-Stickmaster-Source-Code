@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				215,
+				-147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "luke left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-157
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "luke down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "luke up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-161
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "luke right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				151,
+				-154
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "luke idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stickmasterluke",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stickmasterluke",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		0
+	],
+	"camera_position": [
+		-80,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

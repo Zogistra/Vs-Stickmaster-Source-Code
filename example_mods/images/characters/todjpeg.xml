@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="todjpeg.png"><SubTexture name="todjpeg idle0000" x="1005" y="352" width="170" height="296" frameX="-16" frameY="-38" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg idle0001" x="605" y="388" width="181" height="292" frameX="-10" frameY="-43" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg idle0002" x="0" y="771" width="193" height="288" frameX="-4" frameY="-48" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg idle0003" x="193" y="771" width="204" height="282" frameX="0" frameY="-56" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg idle0004" x="397" y="771" width="204" height="280" frameX="0" frameY="-59" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg down0000" x="801" y="0" width="204" height="360" frameX="0" frameY="-14" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg down0001" x="801" y="360" width="204" height="356" frameX="0" frameY="-19" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg down0002" x="1005" y="0" width="204" height="352" frameX="0" frameY="-24" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg left0000" x="204" y="0" width="200" height="383" frameX="-2" frameY="-4" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg left0001" x="404" y="0" width="197" height="383" frameX="-1" frameY="-4" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg up0000" x="0" y="0" width="204" height="388" frameX="0" frameY="0" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg up0001" x="197" y="388" width="204" height="382" frameX="0" frameY="0" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg up0002" x="401" y="388" width="204" height="377" frameX="0" frameY="0" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg right0000" x="601" y="0" width="200" height="383" frameX="-2" frameY="-4" frameWidth="204" frameHeight="388" />
+<SubTexture name="todjpeg right0001" x="0" y="388" width="197" height="383" frameX="-6" frameY="-4" frameWidth="204" frameHeight="388" />
+</TextureAtlas>

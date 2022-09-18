@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won lmao "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you won??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We hit the same amount of notes!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hit 8 more notes than you "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thats unfair!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Stop crying dude"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets have a re-match"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "K lol "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "stick2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im not going easy on you this time"
+		}
+	]
+}

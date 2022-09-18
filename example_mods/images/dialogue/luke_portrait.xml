@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="luke portrait.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="luke portrait0000" x="0" y="0" width="440" height="591" frameX="0" frameY="-18" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="luke portrait0001" x="0" y="0" width="440" height="591" frameX="0" frameY="-18" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="luke portrait0002" x="440" y="0" width="440" height="609"/>
+	<SubTexture name="luke portrait0003" x="440" y="0" width="440" height="609"/>
+	<SubTexture name="luke portrait0004" x="880" y="0" width="440" height="604" frameX="0" frameY="-5" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="luke portrait0005" x="880" y="0" width="440" height="604" frameX="0" frameY="-5" frameWidth="440" frameHeight="609"/>
+</TextureAtlas>

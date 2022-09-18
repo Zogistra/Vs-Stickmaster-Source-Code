@@ -1,0 +1,58 @@
+{
+	"storyName": "covers xd",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"fire duel",
+			"blaze",
+			[
+				233,
+				209,
+				246
+			]
+		],
+		[
+			"ballistic",
+			"stickmaster",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"endless",
+			"stickmaster",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"insanity",
+			"stickmaster",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekC"
+}
